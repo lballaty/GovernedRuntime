@@ -15,7 +15,13 @@ url:
 
 Hook (first two lines carry the point).
 
-## Problem
+## Where we are in the build
+
+What the system could do before this post, and what is still missing.
+
+## The problem
+
+The one problem this post solves on the way to the full system.
 
 ## Design
 
@@ -23,10 +29,12 @@ Hook (first two lines carry the point).
 
 Module path, tag, what was run, on which OS.
 
+## What the system can do now
+
 ## Limits
 
 What this does not defend against.
 
 ## Next
 
-Link to the following post.
+The problem the following post solves.

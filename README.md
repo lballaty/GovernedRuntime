@@ -6,8 +6,9 @@
 
 ## What this is
 
-Every article in the series has a code module in this repo. The article explains the problem and
-the design. The module is the working reference you can read, run and test.
+The series builds one system in the order an implementer would have to think about it. Every article
+solves one problem on the way and has a code module here that implements the solution. The article
+explains the problem and the design. The module is the working reference you can read, run and test.
 
 Principle: an agent action is a privileged system event, not a conversational output. Control comes
 from deterministic mechanisms outside the model (OS boundaries, short-lived credentials, inline

@@ -9,18 +9,20 @@ state. Nothing here is marked published until the author attests it.
 
 ## Layout
 
-One folder per post, named `NN-short-slug` (matches `docs/content-plan.md`):
+One folder per post, named `NN-short-slug` (numbers from `docs/content-plan.md`):
 
 ```
 content/
   01-agents-as-microservices/
-    article.md      the Substack piece or LinkedIn article
-    teaser.md       the LinkedIn teaser (absent for LinkedIn short posts, which are their own teaser)
-  _template/        copy this to start a post
-  INDEX.md          one row per post: status, platform, module, tag
+    article.md            the Substack piece or LinkedIn article
+    teaser-linkedin.md    LinkedIn post, goes out before the article
+    teaser-substack.md    Substack Note, goes out before the article
+  _template/              copy this to start a post
+  INDEX.md                one row per post: article, teasers, code
 ```
 
-LinkedIn short posts (2, 5, 6, 13, 15, 20) have only `article.md`, holding the post itself.
+Every post has all three files. Every article states the problem it solves on the way to the full
+system and what the system can do afterwards.
 
 ## Front matter (every file)
 
@@ -28,7 +30,7 @@ LinkedIn short posts (2, 5, 6, 13, 15, 20) have only `article.md`, holding the p
 post: 1                    # number from docs/content-plan.md
 kind: article              # article | teaser
 platform: substack         # substack | linkedin
-format: newsletter         # newsletter | article | post
+format: newsletter         # newsletter | article | post | note
 status: idea               # idea | drafting | review | ready   (never "published" here)
 module: modules/01_sandbox/sandbox_runner.py
 tag: post-01               # git tag the article links to
