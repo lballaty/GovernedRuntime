@@ -6,6 +6,8 @@
 
 Status: Draft. Series start date is not set, so weeks are relative (W1 to W12, two posts per week).
 
+Architecture, shared contracts and the system state after each post: `docs/architecture.md`.
+
 ## How the series works
 
 The series builds one system, in the order an implementer would have to think about it. Each post solves

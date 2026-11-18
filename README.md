@@ -31,6 +31,7 @@ Each module README records the OS it was run on, what was run, and the known lim
 
 ## Layout
 
+- `docs/architecture.md`: target architecture at v1.0, shared contracts, and system state after each post
 - `docs/content-plan.md`: the 24-post plan, formats, teasers, module map and open decisions
 - `modules/00_audit/`: audit ledger and tracing, built second and used by everything after
 - `modules/01_sandbox/`: runtime sandboxing, local model isolation and non-human identities
