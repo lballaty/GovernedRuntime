@@ -1,7 +1,7 @@
 # Content Staging
 **File:** /content/README.md
 **Description:** Temporary home for article and teaser drafts until they move into MarketCape.
-**Author:** Libor Ballaty
+**Author:** Libor Ballaty <liborballaty@gmail.com>
 **Created:** 2026-11-18
 
 This folder is a staging area. MarketCape stays the system of record for the pipeline and for published

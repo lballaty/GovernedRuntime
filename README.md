@@ -1,7 +1,7 @@
 # GovernedRuntime
 **File:** /README.md
 **Description:** Reference implementations for a 24-post engineering series on governing autonomous AI agents at runtime.
-**Author:** Libor Ballaty
+**Author:** Libor Ballaty <liborballaty@gmail.com>
 **Created:** 2026-11-18
 
 ## What this is

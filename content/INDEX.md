@@ -1,7 +1,7 @@
 # Content Index
 **File:** /content/INDEX.md
 **Description:** Status of every article, teaser and code module in the series.
-**Author:** Libor Ballaty
+**Author:** Libor Ballaty <liborballaty@gmail.com>
 **Created:** 2026-11-18
 
 Statuses: idea, drafting, review, ready. Published state lives in MarketCape.

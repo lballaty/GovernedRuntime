@@ -1,7 +1,7 @@
 # GovernedRuntime Architecture
 **File:** /docs/architecture.md
 **Description:** Target architecture after post 24, the contracts every module shares, and the incremental build state after each post.
-**Author:** Libor Ballaty
+**Author:** Libor Ballaty <liborballaty@gmail.com>
 **Created:** 2026-11-18
 
 Status: Draft design. Nothing in this document is built yet. Every statement here is reasoned design, not

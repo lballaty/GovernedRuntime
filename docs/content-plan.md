@@ -1,7 +1,7 @@
 # GovernedRuntime Content Plan
 **File:** /docs/content-plan.md
 **Description:** Source of truth for the 24-post series: build order, platforms, teasers, code modules and status.
-**Author:** Libor Ballaty
+**Author:** Libor Ballaty <liborballaty@gmail.com>
 **Created:** 2026-11-18
 
 Status: Draft. Series start date is not set, so weeks are relative (W1 to W12, two posts per week).
